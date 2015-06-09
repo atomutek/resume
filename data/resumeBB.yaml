@@ -1,0 +1,89 @@
+
+name:
+    first: Buckaroo
+    last: Banzai
+
+
+whois:
+    - Neurosurgeon
+    - Particle physicist
+    - Race car driver
+
+
+about:
+    name: Buckaroo Banzai
+    age: "65, 27/06/1950"
+    address: "Grover's Mill, NJ, USA, Earth"
+    phone: "+1 0123456789"
+    email: buckaroo@banzai.io
+    languages: "English, Japanese, Chinese, French, Spanish"
+
+
+skills:
+    science:
+        "Particle physics": 5
+        "Automotive design": 4
+    tools:
+        "Electric guitar": 3
+        "Pocket trumpet": 2
+        "Sixgun": 4
+    martial arts:
+        "Bujustu": 5
+
+
+experience:
+    "1970 ~ Present":
+        title: Leader
+        company: Hong Kong Cavaliers
+        descr: > 
+            Writing songs, playing electric guitar and pocket trumpet in the hard rock band Hong Kong Cavaliers.
+
+    "1984 ~ 1986":
+        title: World hero
+        company: Earth
+        descr: >
+            Fought Red Lectroids with the Blue Blaze Irregulars (BBI).
+
+    "1975 ~ 1984":
+        title: Automotive genius
+        company: Banzai Automotive Inc.
+        descr: >
+            Designed high-powered cars.
+
+
+education:
+    University of Arizona: PhD in Particle physics (Negative mass propulsion)
+    Mustard Clinic College: Neurosurgery resident
+
+
+interests:
+    hardware:
+        - Race cars
+        - Human machinery
+    misc:
+        - Surgery
+        - Music
+        - Fighting the good fight
+
+
+theme:
+    colors:
+        pri: "#DF0000"
+        sec: "#7F7F7F"
+
+    icons:
+        about: fa fa-user
+        skills: fa fa-bolt
+        skill: fa fa-cog
+        experience: fa fa-gavel
+        education: fa fa-graduation-cap
+        interests: fa fa-thumbs-up
+        level: fa fa-star
+        details:
+            - fa fa-comment
+            - fa fa-calendar
+            - fa fa-map-marker
+            - fa fa-phone
+            - fa fa-envelope
+            - fa fa-github
+            - fa fa-globe
