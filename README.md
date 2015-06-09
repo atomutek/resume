@@ -18,7 +18,7 @@ If no command line arguments are given, resume has the defaults of :
 
 ## Example
 
-An example of the ouput can be seen in the [Example folder](https://github.com/pioden/resume/example/).
+An example of the ouput can be seen in the [Example folder](https://github.com/pioden/resume/tree/master/example).
 
 ## Dependencies
 
